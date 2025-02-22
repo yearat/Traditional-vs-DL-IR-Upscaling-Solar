@@ -1,0 +1,2 @@
+The validation folder contained data from 2018_01_08 to 2018_01_23 (except 2018_01_18).
+In total 15 folders.

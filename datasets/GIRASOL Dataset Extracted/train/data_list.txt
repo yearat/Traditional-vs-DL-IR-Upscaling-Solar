@@ -1,0 +1,2 @@
+The train folder contained data from 2017_12_08 to 2018_01_7 (except 2017_12_14).
+In total 29 folders.
